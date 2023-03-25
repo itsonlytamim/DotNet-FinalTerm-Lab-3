@@ -52,10 +52,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EmpContext.cs" />
+    <Compile Include="Migrations\202303250700561_InitDb.cs" />
+    <Compile Include="Migrations\202303250700561_InitDb.designer.cs">
+      <DependentUpon>202303250700561_InitDb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Employee.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Models\" />
+    <EmbeddedResource Include="Migrations\202303250700561_InitDb.resx">
+      <DependentUpon>202303250700561_InitDb.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

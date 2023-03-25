@@ -1,0 +1,14 @@
+E:\dotnwt repos\n_tier_intro\DAL\bin\Debug\DAL.dll.config
+E:\dotnwt repos\n_tier_intro\DAL\bin\Debug\DAL.dll
+E:\dotnwt repos\n_tier_intro\DAL\bin\Debug\DAL.pdb
+E:\dotnwt repos\n_tier_intro\DAL\bin\Debug\EntityFramework.dll
+E:\dotnwt repos\n_tier_intro\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\dotnwt repos\n_tier_intro\DAL\bin\Debug\EntityFramework.xml
+E:\dotnwt repos\n_tier_intro\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\dotnwt repos\n_tier_intro\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\dotnwt repos\n_tier_intro\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\dotnwt repos\n_tier_intro\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\dotnwt repos\n_tier_intro\DAL\obj\Debug\DAL.dll
+E:\dotnwt repos\n_tier_intro\DAL\obj\Debug\DAL.pdb
+E:\dotnwt repos\n_tier_intro\DAL\obj\Debug\DAL.Migrations.InitDb.resources
+E:\dotnwt repos\n_tier_intro\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

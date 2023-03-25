@@ -1,0 +1,12 @@
+E:\dotnwt repos\n_tier_intro\BLL\bin\Debug\BLL.dll
+E:\dotnwt repos\n_tier_intro\BLL\bin\Debug\BLL.pdb
+E:\dotnwt repos\n_tier_intro\BLL\bin\Debug\DAL.dll
+E:\dotnwt repos\n_tier_intro\BLL\bin\Debug\EntityFramework.dll
+E:\dotnwt repos\n_tier_intro\BLL\bin\Debug\DAL.pdb
+E:\dotnwt repos\n_tier_intro\BLL\bin\Debug\DAL.dll.config
+E:\dotnwt repos\n_tier_intro\BLL\bin\Debug\EntityFramework.xml
+E:\dotnwt repos\n_tier_intro\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\dotnwt repos\n_tier_intro\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\dotnwt repos\n_tier_intro\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\dotnwt repos\n_tier_intro\BLL\obj\Debug\BLL.dll
+E:\dotnwt repos\n_tier_intro\BLL\obj\Debug\BLL.pdb
