@@ -71,3 +71,6 @@ E:\dotnwt repos\n_tier_intro\n_tier_intro\obj\Debug\n_tier_intro.csproj.CoreComp
 E:\dotnwt repos\n_tier_intro\n_tier_intro\obj\Debug\n_tier_intro.csproj.CopyComplete
 E:\dotnwt repos\n_tier_intro\n_tier_intro\obj\Debug\n_tier_intro.dll
 E:\dotnwt repos\n_tier_intro\n_tier_intro\obj\Debug\n_tier_intro.pdb
+E:\dotnwt repos\n_tier_intro\n_tier_intro\bin\DAL.dll
+E:\dotnwt repos\n_tier_intro\n_tier_intro\bin\DAL.pdb
+E:\dotnwt repos\n_tier_intro\n_tier_intro\bin\DAL.dll.config

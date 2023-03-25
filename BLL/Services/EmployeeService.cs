@@ -10,12 +10,12 @@ namespace BLL.Services
 {
     public class EmployeeService
     {
-        public List<Employee> Get()
+        public static object Get()
         {
             return EmployeeRepo.Get();
         }
         //logical operation exapmle
-        public List<Employee> Get10() 
+        public static List<Employee> Get10() 
         {
             var data = from e in EmployeeRepo.Get()
                        where e.Id < 11
@@ -23,19 +23,19 @@ namespace BLL.Services
 
             return data.ToList();
         }
-        public Employee Get(int id)
+        public static Employee Get(int id)
         {
             return EmployeeRepo.Get(id);
         }
-        public bool Create(Employee employee) 
+        public static bool Create(Employee employee) 
         {
            return EmployeeRepo.Create(employee);
         }
-        public bool Update(Employee employee)
+        public static bool Update(Employee employee)
         {
             return EmployeeRepo.Update(employee);
         }
-        public bool Delete(int id)
+        public static bool Delete(int id)
         {
             return EmployeeRepo.Delete(id);
         }
