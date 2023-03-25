@@ -11,7 +11,7 @@ namespace DAL.Repos
     {
         static EmpContext empContext;
 
-        public EmployeeRepo()
+        static EmployeeRepo()
         {
             empContext = new EmpContext();
         }
